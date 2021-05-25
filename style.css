@@ -61,7 +61,7 @@ h1 {
 	color: white; 
 }
 .container {
-	width: 900px
+	width: 900px;
 	margin: 60px auto;
 }
 
@@ -70,7 +70,7 @@ h1 {
 	color: white;
 	background: #404042;
 }
-<!--cards-->
+/* cards */
 
 .cards {
   display: grid;
